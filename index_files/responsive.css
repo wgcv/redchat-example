@@ -1,0 +1,577 @@
+/* lg */
+@media (min-width: 1200px) {
+ /* Make Navigation Toggle on Desktop Hover */
+  .dropdown:hover .dropdown-menu {
+      display: block;
+      -webkit-animation: fadeInUp 400ms;
+      animation: fadeInUp 400ms;
+  }
+
+  #portfolio .row {
+    margin-left: -10px;
+    margin-right: -10px;
+  }
+
+  .variable-size{
+    max-height: 128px;
+  }
+
+
+
+
+}
+
+/* md */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+ /* Make Navigation Toggle on Desktop Hover */
+  .dropdown:hover .dropdown-menu {
+      display: block;
+      -webkit-animation: fadeInUp 400ms;
+      animation: fadeInUp 400ms;
+  }
+
+  .navbar-nav > li {
+    margin-left: 10px;
+  }
+
+  .navbar-collapse {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .recent-work-wrap .recent-work-inner h3 a {
+    font-size: 20px;
+  }
+
+  .recent-work-wrap .overlay{
+    padding: 15px;
+  }
+
+  .services-wrap {
+    padding: 40px 10px 40px 30px;
+  }
+
+  .feature-wrap h2,
+  .single-services h2 {
+    font-size: 18px;
+  }
+
+  .feature-wrap h3,
+  .single-services h3{
+    font-size: 14px;
+  }
+
+  .tab-wrap .media .parrent.pull-left{
+    clear: both;
+    width: 100%;
+  }
+
+  .tab-wrap .media .parrent.media-body{
+    clear: both;
+  }
+
+  #portfolio .row {
+    margin-left: -10px;
+    margin-right: -10px;
+  }
+
+  .recent-work-wrap .overlay .preview{
+    line-height: inherit;
+  }
+
+  .team-bar .first-arrow {
+    width: 21%;
+  }
+
+  .team-bar .second-arrow {
+    width: 20%;
+  }
+
+  .team-bar .third-arrow {
+    width: 21%;
+  }
+
+  .team-bar .fourth-arrow {
+    width: 20%;
+  }
+
+  ul.social_icons li{
+    margin-right: 0;
+  }
+
+  .variable-size{
+    max-height: 128px;
+  }
+
+  .single-profile-top .col-md-3{
+    width: 20%!important;
+  }
+
+  .jumbotron.team-jumbo{
+    background-position: 42%;
+  }
+
+  .jumbotron.ir-jumbo{
+    background-position: 45%;
+  }
+  .jumbotron.media-jumbo{
+    background-position: 40%;
+  }
+
+  .jumbotron.digital-ir-jumbo{
+    background-position: 50%;
+  }
+
+  .jumbotron.research-jumbo{
+    background-position: 60%;
+  }
+
+  .jumbotron.gopublic-jumbo{
+    background-position: 15%;
+  }
+
+
+
+}
+
+@media (min-width: 992px){
+   .single-profile-top .col-md-3{
+    width: 20%!important;}
+
+
+
+}
+
+/* sm Landscape */
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (orientation: landscape)
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+
+  #home-slider .item.digital-ir{
+
+    background-position: 43%!important;
+
+  }
+
+    .jumbotron.media-jumbo{
+    background-position: 40%;
+  }
+
+}
+
+
+
+
+
+/* sm */
+@media (min-width: 768px) and (max-width: 991px) {
+  /* Make Navigation Toggle on Desktop Hover */
+  .dropdown:hover .dropdown-menu {
+      display: block;
+      -webkit-animation: fadeInUp 400ms;
+      animation: fadeInUp 400ms;
+  }
+
+  .avatar-image-profile {
+    top: 3px;
+    left: 50px;}
+
+  .navbar-collapse {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .navbar-nav > li {
+    margin-left: 0;
+  }
+
+  #main-slider h1 {
+    font-size: 25px;
+  }
+
+  #main-slider h2 {
+    font-size: 20px;
+  }
+
+  .tab-wrap .media .parrent.pull-left,
+  .media.accordion-inner .pull-left{
+    clear: both;
+    width: 100%;
+  }
+
+  .tab-wrap .media .parrent.media-body,
+  .media.accordion-inner .media-body{
+    clear: both;
+  }
+
+  .services-wrap {
+    padding: 40px 0 40px 30px;
+  }
+
+  .recent-work-wrap .overlay{
+   padding: 15px;
+  }
+
+  .recent-work-wrap .recent-work-inner h3 a {
+    font-size: 20px;
+  }
+
+  .sinlge-skill{
+    width: 150px;
+    height: 150px;
+  }
+
+  .sinlge-skill p em {
+    font-size: 25px;
+  }
+
+  .sinlge-skill p {
+    font-size: 16px;
+  }
+
+  .team-bar .first-one-arrow {
+    width: 2%;
+  }
+
+  .team-bar .first-arrow {
+    width: 18%;
+  }
+
+  .team-bar .second-arrow {
+    width: 24%;
+  }
+
+  .team-bar .third-arrow {
+    width: 15%;
+  }
+
+  .team-bar .fourth-arrow {
+    width: 20%;
+  }
+
+  .blog .blog-item .entry-meta > span a{
+    font-size: 10px;
+  }
+
+   variable-size{
+    max-height: 128px;
+  }
+
+  .main-content{padding: 20px 20px 20px 15px;}
+
+  #home-slider .digital-ir{
+    background-position: 45%; background-repeat: no-repeat;  background-size: 260% 100%;
+
+  }
+
+  .jumbotron.team-jumbo{
+      background-position: 50%;
+  }
+
+  .jumbotron.testimonials-jumbo{
+      background-position: 25%;
+  }
+
+  .jumbotron.ir-jumbo{
+      background-position: 50%;
+  }
+
+  .jumbotron.digital-ir-jumbo{
+      background-position: 47%;
+  }
+
+  .jumbotron.media-jumbo{
+      background-position: 41%;
+  }
+
+  .jumbotron.research-jumbo{
+      background-position: 41%;
+  }
+
+  .jumbotron.gopublic-jumbo{
+      background-position: 30%;
+
+  }
+
+}
+
+/* xs */
+@media (max-width: 767px) {
+
+
+  .top-number{
+    font-size: 14px;
+  }
+
+  input.search-form:hover {
+    width: 120px;
+  }
+
+  .navbar-nav > li {
+    padding-bottom: 0;
+  }
+
+  #main-slider h1 {
+    font-size: 25px;
+  }
+
+  #main-slider h2 {
+    font-size: 16px;
+  }
+
+  .feature-wrap h2,
+  .single-services h2 {
+    font-size: 18px;
+  }
+
+  .feature-wrap h3,
+  .single-services h3{
+    font-size: 14px;
+  }
+
+
+  .media.accordion-inner .pull-left,
+  .media.accordion-inner .media-body{
+    clear: both;
+  }
+
+  .accordion-inner h4 {
+    margin-top: 10px;
+  }
+
+  .tab-wrap .media .pull-left{
+    clear: both;
+    width: 100%;
+  }
+
+  .tab-wrap .media .media-body{
+    clear: both;
+  }
+
+  .nav-tabs > li.active > a:after{
+    display: none;
+  }
+
+  #footer .col-sm-6{
+      text-align:center;
+  }
+
+   #footer .pull-right{
+      float: none !important;
+  }
+
+  .sinlge-skill {
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .team .single-profile-top,
+  .team .single-profile-bottom {
+    margin-bottom: 30px;
+  }
+
+  .clients-area {
+    padding: 60px 0;
+  }
+
+  .clients-area h1 {
+    font-size: 25px;
+  }
+
+  .portfolio-item,
+  #recent-works .col-xs-12.col-sm-4.col-md-3{
+    padding:0 15px;
+  }
+
+  ul.social_icons li{
+    margin-right: 0;
+  }
+
+  .blog .blog-item .entry-meta{
+    margin-bottom: 20px;
+  }
+
+  .blog .blog-item .blog-content h3 {
+    margin-bottom: 20px;
+  }
+
+  .blog .blog-item .blog-content h2 {
+    font-size: 2rem;
+  }
+
+
+
+
+  .post_reply_comments {
+    padding-left: 20px;
+  }
+  .centered-xs {
+    text-align: center!important;
+    margin: 0 auto!important;
+  }
+  .variable-size{
+    max-height: 80px!important;
+  }
+
+  .content-box{
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+	.content-box{margin-left: -15px; margin-right: -15px;}
+	.content-box .row{margin: 0;}
+	.breadcrumbs-container{padding-left: 15px; padding-right: 15px;}
+	.breadcrumbs li{margin-left: 10px; padding-left: 18px;}
+	.breadcrumbs li a{font-size: 12px;}
+	.sidebar-nav{padding: 0; border-right: none;}
+	.main-content{padding: 30px 20px;}
+
+  .carousel-content h1{font-size: 22px; }
+  .carousel-content h2{font-size: 14px; padding-top: 8px;}
+
+  #slider{
+
+  }
+
+  #home-slider{
+    height: 260px;}
+
+
+  #home-slider .slide-margin {
+  margin-top: 10px;
+  padding-bottom: 10px;
+  }
+
+  #home-slider .carousel-content{
+    padding-bottom: 10px;
+  }
+
+  #home-slider .carousel-inner{
+     height: 250px;
+  }
+
+  #home-slider.item{
+    height: 245px;
+  }
+
+  #home-slider .traditional-ir{
+    background-position: 100%; background-repeat: no-repeat;  background-size: cover;
+    background: -webkit-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/assets/images/corporate/ir-services-jumbo.webp) 56% -246% no-repeat;
+    background: -moz-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/assets/images/corporate/ir-services-jumbo.webp) 56% -246% no-repeat;
+    background: -o-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/assets/images/corporate/ir-services-jumbo.webp) 56% -246% no-repeat;
+    background: -ms-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/assets/images/corporate/ir-services-jumbo.webp) 56% -246% no-repeat;
+    background: radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/assets/images/corporate/ir-services-jumbo.webp) 56% -246% no-repeat;
+  }
+
+   #home-slider .digital-ir{
+    background-position: 100%; background-repeat: no-repeat;  background-size: cover;
+    background: -webkit-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/services-jumbo3.webp) 56% -246% no-repeat;
+    background: -moz-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/services-jumbo3.webp) 56% -246% no-repeat;
+    background: -o-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/services-jumbo3.webp) 56% -246% no-repeat;
+    background: -ms-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/services-jumbo3.webp) 56% -246% no-repeat;
+    background: radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/services-jumbo3.webp) 60% -30% no-repeat ;
+
+   }
+
+   #home-slider .world-leader{
+    background-position: 100%; background-repeat: no-repeat;  background-size: cover;
+    background: -webkit-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.8)), url(/assets/images/corporate/home-overview-jumbo.jpg) 53% -360% no-repeat!important;
+    background: -moz-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.8)), url(/assets/images/corporate/home-overview-jumbo.jpg) 53% -360% no-repeat!important;
+    background: -o-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.8)), url(/assets/images/corporate/home-overview-jumbo.jpg) 53% -360% no-repeat!important;
+    background: -ms-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.8)), url(/assets/images/corporate/home-overview-jumbo.jpg) 53% -360% no-repeat!important;
+    background: radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.8)), url(/assets/images/corporate/home-overview-jumbo.jpg) 53% -360% no-repeat!important;
+
+   }
+
+   #home-slider .capital-raising{
+    background-position: 100%; background-repeat: no-repeat;  background-size: cover;
+    background: -webkit-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/slider/raise-slider.jpg) 65% 98% no-repeat;
+    background: -moz-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/slider/raise-slider.jpg) 65% 98% no-repeat;
+    background: -o-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/slider/raise-slider.jpg) 65% 98% no-repeat;
+    background: -ms-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/slider/raise-slider.jpg) 65% 98% no-repeat;
+    background: radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/slider/raise-slider.jpg) 65% 98% no-repeat;
+
+
+   }
+
+   #home-slider .media-production{
+    background-position: 100%; background-repeat: no-repeat;  background-size: cover;
+    background: -webkit-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/media-production-jumbo.webp) 62% 5% no-repeat;
+    background: -moz-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/media-production-jumbo.webp) 62% 5% no-repeat;
+    background: -o-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/media-production-jumbo.webp) 62% 5% no-repeat;
+    background: -ms-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/media-production-jumbo.webp) 62% 5% no-repeat;
+    background: radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/media-production-jumbo.webp) 62% 5% no-repeat;
+   }
+
+  #home-slider .go-public{
+    background-position: 100%; background-repeat: no-repeat;  background-size: cover;
+    background: -webkit-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/slider/tablet-slider.jpg) 65% 93% no-repeat;
+    background: -moz-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/slider/tablet-slider.jpg) 65% 93% no-repeat;
+    background: -o-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/slider/tablet-slider.jpg) 65% 93% no-repeat;
+    background: -ms-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/slider/tablet-slider.jpg) 65% 93% no-repeat;
+    background: radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/slider/tablet-slider.jpg) 65% 93% no-repeat;
+
+  }
+
+   #home-slider .research{
+    background-position: 100%; background-repeat: no-repeat;  background-size: cover;
+    background: -webkit-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/services/research-jumbo.webp) 65% 93% no-repeat;
+    background: -moz-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/services/research-jumbo.webp) 65% 93% no-repeat;
+    background: -o-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/services/research-jumbo.webp) 65% 93% no-repeat;
+    background: -ms-radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/services/research-jumbo.webp) 65% 93% no-repeat;
+    background: radial-gradient(closest-side, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(/assets/images/corporate/services/research-jumbo.webp) 65% -27% no-repeat;
+
+  }
+
+  /*JUMBOTRONS XS*/
+    .jumbotron{
+      height: 14em!important;
+      background-size: 180%;
+    }
+
+    .jumbotron h1{
+      font-size: 25px;
+    }
+
+    .jumbotron.ir-jumbo{
+          background-size: 180%;
+          background-position: 39% 0%;
+    }
+
+    .jumbotron.digital-ir-jumbo{
+          background-size: 147% 64%;
+          background-position: 39% 0%;
+    }
+
+    .jumbotron.media-jumbo{
+        height: 14em!important;
+        background-position: 0% 0%;
+    }
+
+    .jumbotron.research-jumbo{
+        background-position: 68% 10%;
+        background-size: 325%;
+    }
+
+    .jumbotron.team-jumbo{
+      background-position: 43% 0%;
+    }
+
+
+
+
+
+
+
+
+}
+
+/* XS Portrait */
+@media (max-width: 480px) {
+
+
+}
